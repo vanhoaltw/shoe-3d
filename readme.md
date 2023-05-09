@@ -23,7 +23,7 @@ To install the TodoList app, follow these steps:
 3. yarn dev or npm run dev
 
 ## Screenshots
-<img src="https://res.cloudinary.com/audio-life/image/upload/v1683603176/Screenshot_2023-05-09_at_10.32.46_uf6w1o.png" alt="Main page" />
+<img src="https://res.cloudinary.com/audio-life/image/upload/v1683604036/shoe-3d_sinyil.png" alt="Main page" />
 
 ## License
 
