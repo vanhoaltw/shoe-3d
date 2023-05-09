@@ -4,7 +4,7 @@
 
 ### Customize color of laces, mesh, stripes, etc of your shoe.
 
-### https://chatifynew.vercel.app/
+### https://shoe-3d.vercel.app/
 
 </div>
 
@@ -18,7 +18,7 @@
 
 To install the TodoList app, follow these steps:
 
-1. Git clone https://github.com/vanhoaltw/todolist.git
+1. Git clone https://github.com/vanhoaltw/shoe-3d.git
 2. yarn add or npm install
 3. yarn dev or npm run dev
 
